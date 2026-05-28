@@ -1,0 +1,65 @@
+body {
+
+    margin: 0;
+
+    font-family: Arial;
+
+    background: #0f172a;
+
+    color: white;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+}
+
+.container {
+
+    background: #1e293b;
+
+    padding: 40px;
+
+    border-radius: 15px;
+
+    text-align: center;
+
+    width: 400px;
+}
+
+h1 {
+
+    margin-bottom: 30px;
+}
+
+.score {
+
+    font-size: 60px;
+
+    margin-bottom: 20px;
+}
+
+.overs {
+
+    font-size: 25px;
+
+    margin-bottom: 30px;
+}
+
+.buttons button {
+
+    padding: 12px 18px;
+
+    margin: 10px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    font-size: 16px;
+
+    cursor: pointer;
+}
